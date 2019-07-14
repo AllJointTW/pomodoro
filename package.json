@@ -53,6 +53,7 @@
     }
   },
   "dependencies": {
+    "dayjs": "^1.8.15",
     "normalize.css": "^8.0.1",
     "vue": "^2.5.16",
     "vue-electron": "^1.0.6",

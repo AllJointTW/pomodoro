@@ -1,5 +1,45 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap');
 
-html, body {
-  font-family: 'Noto Sans TC', sans-serif;
-}
+/* Font Family */
+html, body { font-family: 'Avenir Next', 'Noto Sans TC', sans-serif }
+
+.fs-35 { font-size: 2.1875rem }
+
+.fw-b { font-weight: bold }
+.fw-r { font-weight: 500 }
+
+.c-003CA1 { color: #003CA1 }
+
+.bgc-003CA1 { background-color: #003CA1 }
+.bgc-F7F5F1 { background-color: #F7F5F1 }
+
+.d-none {display: none }
+.d-inline-block { display: inline-block }
+.d-flex { display: flex }
+
+.fd-row { flex-direction: row }
+.fd-row-reverse { flex-direction: row-reverse }
+
+.jc-between { justify-content: space-between }
+
+.ai-center { align-items: center }
+
+.o-0 { opacity: 0 }
+.o-8 { opacity: 0.8 }
+
+.br-50-percentage { border-radius: 50% }
+
+.p-relative { position: relative }
+.p-absolute { position: absolute }
+
+.t-50-percentage { top: 50% }
+
+.r-50-percentage { right: 50% }
+
+.l-50-percentage { left: 50% }
+
+.t-X-minus-50-percentage { transform: translateX(-50%) }
+.t-Y-minus-50-percentage { transform: translateY(-50%) }
+.t-XY-minus-50-percentage { transform: translate(-50%, -50%) }
+
+.bs-border-box { box-sizing: border-box }
